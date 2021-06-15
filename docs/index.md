@@ -1,36 +1,82 @@
 ## Welcome to jx
-You can use the [editor on GitHub](https://github.com/jxjsd/jxjsd.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+2021年郏县京师大附属学校教师招聘
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+开始啦！
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  学校简介
 
-```markdown
-Syntax highlighted code block
-
+京师大附属学校是一所教学品质高端、条件一流的民办寄宿制学校，由襄县多位知名教师联合创办。学校布局合理、交通便利、设备齐全。
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+01 月度工资
 
-1. Numbered
-2. List
+月工资3500－10000元，在职优秀初中教师可根据原教龄核算为京师大中学教龄。
 
-**Bold** and _Italic_ and `Code` text
+02寒暑假工资 
 
-[Link](url) and ![Image](src)
-```
+      寒、暑假期间均发放全额基本工资。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
 
-### Jekyll Themes
+03 绩效奖金
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jxjsd/jxjsd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+根据教师教学管理业绩，学校每学年为教师发放高额年终奖金。。
 
-### Support or Contact
+04 节日福利
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+学校全年为教师发放教师节、春节过节费，中秋节、元旦节、三八妇女节及生日补助等。
+
+05 教育补贴
+
+教师子女弟妹就读本校均享受50%-100%的教育成本费补贴
+
+06 免费食宿
+
+教师在校免费配发工装，免费享用营养自助餐，免费享受教师公寓福利住房。
+
+07 健康体检
+
+学校极为关注教师身心健康，每年安排教师在大型专业体检中心进行全面体检一次。
+
+08 外出旅游
+
+每年定期组织全体教师外出旅游。
+
+09 助力成长
+
+学校为教师构建专业成长平台，除校内组织集体备课、学科培训、发放读书奖外，还分批组织教师外出研学，为教师专业化成长不断助力。
+
+10 劳动保障
+
+学校为教师缴纳社会养老保险、失业险、工伤险，签订就业合同，为教师提供完善的劳动保障。
+
+ 
+
+招聘条件
+
+1、本科及以上学历，专业对口，年龄55岁以下。
+
+2、专业知识过硬，有教学经验及显著教学管理成效者可适当放宽条件聘用。
+01 现场报名
+
+携带个人相关证件（身份证、毕业证、教师资格证原件及一张近期免冠1寸照片）到郏县京师大附属学校接待室报名。
+
+ 02 网上报名
+
+发送个人简历至邮箱：jxjsd2021@163.com
+
+ 03 电话报名
+
+牛老师：15737583966
+
+郑老师：15382917098
+
+王老师：13721862082
+
+固    话：0375---5116698
+
+学校地址:郏县冢头镇南2公里路右。
