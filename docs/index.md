@@ -9,7 +9,7 @@
 京师大附属学校是一所教学品质高端、条件一流的民办寄宿制学校，由襄县多位知名教师联合创办。学校布局合理、交通便利、设备齐全。
 
 ### 招聘计划
-<img src ="https://github.com/jxjsd/jxjsd.github.io/blob/main/image15.jpg" width="500" height="100">
+<img src ="https://github.com/jxjsd/jxjsd.github.io/blob/main/image015.png" width="700" height="120">
 
 ### 薪资福利待遇
 
