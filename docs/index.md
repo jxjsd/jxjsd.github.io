@@ -1,5 +1,7 @@
-<img src="https://github.com/jxjsd/jxjsd.github.io/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210601104147.png" width="100" height="100" /><br/> 
+<img src="https://github.com/jxjsd/jxjsd.github.io/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210601104147.png" width="100" height="100"> 
+
 # 2021年郏县京师大附属学校教师招聘
+
 ## 开始啦！
 
 ### 学校简介
@@ -47,23 +49,24 @@
 
 学校为教师缴纳社会养老保险、失业险、工伤险，签订就业合同，为教师提供完善的劳动保障。
 
- 
-
 ### 招聘条件
 
 1、本科及以上学历，专业对口，年龄55岁以下。
 
 2、专业知识过硬，有教学经验及显著教学管理成效者可适当放宽条件聘用。
+
+### 招聘程序
+<img src ="https://github.com/jxjsd/jxjsd.github.io/blob/main/image5.jpg" width="500" height="100">
  
 ### 报名事宜
  
 01 现场报名
 携带个人相关证件（身份证、毕业证、教师资格证原件及一张近期免冠1寸照片）到郏县京师大附属学校接待室报名。
 
- 02 网上报名
+02 网上报名
 发送个人简历至邮箱：jxjsd2021@163.com
 
- 03 电话报名
+03 电话报名
 
 牛老师：15737583966
 
